@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="/Users/apple/IdeaProjects/GmailAssignment/src/test/java/testScripts/Gmail/Tc_002.java">
+    </test>
+    <test verbose="2" preserve-order="true"
+          name="/Users/apple/IdeaProjects/GmailAssignment/src/test/java/testScripts/Gmail/Tc_001.java">
+        <classes>
+            <class name="testScripts.Gmail.TC_EMAIL_001">
+                <methods>
+                    <include name="launchGmail"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

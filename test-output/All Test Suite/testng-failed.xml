@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [All Test Suite]">
+  <test name="/Users/apple/IdeaProjects/GmailAssignment/src/test/java/testScripts/Gmail/Tc_001.java(failed)">
+    <classes>
+      <class name="testScripts.Gmail.TC_EMAIL_001">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="launchBrowser"/>
+          <include name="launchGmail"/>
+        </methods>
+      </class> <!-- testScripts.Gmail.TC_EMAIL_001 -->
+    </classes>
+  </test> <!-- /Users/apple/IdeaProjects/GmailAssignment/src/test/java/testScripts/Gmail/Tc_001.java(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->
